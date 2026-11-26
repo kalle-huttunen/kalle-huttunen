@@ -4,7 +4,7 @@ Independent IT architect in Kuopio, Finland. I take on the hardest IT problems f
 
 I came up through helpdesk, service desk, systems administration and projects before moving into architecture. Most of what I build rests on the same basics: identity and access management, the data lifecycle, integrations, security and controlled rollouts.
 
-[LinkedIn](https://linkedin.com/in/kalle-huttunen)
+[kmhit.fi](https://kmhit.fi) · kalle.huttunen@kmhit.fi · [LinkedIn](https://linkedin.com/in/kalle-huttunen)
 
 ## Projects
 
